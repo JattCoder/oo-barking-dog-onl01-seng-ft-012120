@@ -6,7 +6,7 @@ class Dog
     @doggiename
   end
   def bark
-    puts "woof"
+    puts "woof!"
   end
 end
 
